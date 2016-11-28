@@ -1,0 +1,11 @@
+{
+  "name": "github-monitor",
+  "version": "0.0.1",
+  "description": "Reports the status of projects on GitHub",
+  "main": "github-monitor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Dillon",
+  "license": "ISC"
+}
